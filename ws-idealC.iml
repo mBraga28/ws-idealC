@@ -6,6 +6,10 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modulos-nelioAlves/M13_enumercoes_composicao" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/modulos-nelioAlves/M14_herança_e_polimorfismo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/modulos-nelioAlves/M15_Tratamento_de_Exceções" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/modulos-nelioAlves/M16_Projeto_sistema_jogo_de_xadrez" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/modulos-nelioAlves/M17_Tratamento_de_arquivos" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/modulos-nelioAlves/M18_Interfaces" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
